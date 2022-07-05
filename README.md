@@ -1,11 +1,13 @@
 Here is a movie website.
 live link: https://themoviedotnet.netlify.app/
 
-The Routing Structure is as follows:
+##The Routing Structure is as follows:
 
 Sign-in page
 Registration page
 Protected Routes are the Home page and Detail page.
+
+
 
 The API URL pattern used tallies with the exact pattern as seen on the movie API website.
 
